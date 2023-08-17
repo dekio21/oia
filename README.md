@@ -1,11 +1,15 @@
-# Instruções para "rodar" o arquivo
-Baixar o arquivo .c
+# Lab 1 - Hello World em C 
 
-No terminal escrever o comando gcc hello.c -o hello para compilar o arquivo
+# Instruções para "rodar" o código
 
-Para executa-lo escrever o seguinte comando: ./hello
+Baixar o arquivo .c ou clonar o repositório com o comando `git clone https://github.com/dekio21/oia.git` e entrar na pasta usando
+o comando `cd oia`
 
-Integrantes do grupo:
+No terminal escrever o comando `gcc hello.c -o hello` para compilar o arquivo
+
+Após compilado um arquivo hello será criado e para executá-lo escrever o seguinte comando: `./hello`
+
+# Integrantes do grupo
 
 André Akio Morita Osakawa TIA: 32262787
 
