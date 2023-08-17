@@ -7,7 +7,7 @@ o comando `cd oia`
 
 No terminal escrever o comando `gcc hello.c -o hello` para compilar o arquivo
 
-Após compilado um arquivo hello será criado e para executá-lo escrever o seguinte comando: `./hello`
+Após compilado, um arquivo hello será criado e para executá-lo escrever o seguinte comando: `./hello`
 
 # Integrantes do grupo
 
