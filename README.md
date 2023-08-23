@@ -3,7 +3,7 @@
 # Instruções para "rodar" o código
 
 Baixar o arquivo .c ou clonar o repositório com o comando `git clone https://github.com/dekio21/ola_mundo-C.git` e entrar na pasta usando
-o comando `cd Ola_mundo-C`
+o comando `cd ola_mundo-C`
 
 No terminal escrever o comando `gcc hello.c -o hello` para compilar o arquivo
 
